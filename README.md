@@ -86,3 +86,11 @@ La aplicación utiliza Java Swing para mostrar la interfaz gráfica y no requier
 ## Almacenamiento de datos
 
 Las recetas se guardan mediante serialización de objetos Java en el archivo `recetas.dat`. La clase `GestorRecetas` se encarga de cargar los datos al iniciar la aplicación y guardarlos cuando se registra una nueva receta.
+
+## Autor
+
+**Brandon Castrillón**
+
+Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
+
+- **Portfolio:** [Portfolio personal](https://brando046.github.io/Portfolio-Brandon/)
